@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkblue;
+}
+
+li{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.smallBox{
+    background-color: darkorange;
+    width: 30%;
+    float: left;
+    margin: 9px;
+    padding: 6px;
+    border-style: solid;
+    border-color: teal;
+    border-width: 3px;
+    border-radius: 27px;
+}
